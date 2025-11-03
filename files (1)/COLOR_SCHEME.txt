@@ -1,0 +1,27 @@
+🌌 YOU-N-I-VERSE COSMIC COLOR SCHEME 🌌
+
+PRIMARY COLORS:
+--purple: #a855f7   🟣 (Deep cosmic purple)
+--light-blue: #7dd3fc 🔵 (Sky blue - accent only!)
+--pink: #f472b6     💗 (Hot pink)
+--magenta: #ec4899  💕 (Vibrant magenta)
+--cyan: #67e8f9     🩵 (Light cyan)
+
+BACKGROUNDS:
+--dark: #0f0724     (Deep space purple-black)
+--darker: #05020f   (Void black)
+--card: #1a0f2e     (Dark purple panels)
+
+TEXT:
+--text: #f0f4ff     (Bright white-blue)
+--text-dim: #a5b4d4 (Soft blue-gray)
+
+USED FOR:
+✨ Gradients: Purple → Light Blue → Pink
+🌟 Glows: Purple, Pink, Cyan
+💫 Accents: Light blue (not dominant!)
+🎨 Borders: Purple/Pink combo
+🔮 Buttons: Purple-Pink gradient
+
+NO MORE GOLD! 🚫
+Blue is ACCENT only, not primary! ✅

@@ -1,0 +1,3 @@
+Model,CrossEntropy_bits,BaselineEntropy_bits,DeltaI_bits,Energy_per_sample_units,Efficiency_eta=DeltaI/Energy,ActiveExperts(K)
+Dense Softmax,0.12490188425952264,1.5849625007211563,1.4600606164616337,6.0,0.24334343607693895,
+Resonant MoE,0.13315585007745337,1.5849625007211563,1.4518066506437028,30.0,0.048393555021456765,4.0

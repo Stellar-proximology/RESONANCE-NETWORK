@@ -1,0 +1,5 @@
+{
+  "ok": true,
+  "message": "generated",
+  "raw": "\nadded 1 package, and audited 13 packages in 788ms\n\n3 packages are looking for funding\n  run `npm fund` for details\n\n2 moderate severity vulnerabilities\n\nTo address all issues (including breaking changes), run:\n  npm audit fix --force\n\nRun `npm audit` for details.\n\n> string@0.1.0 build\n> vite build\n\nvite v5.4.20 building for production...\ntransforming...\n✓ 5 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                  0.37 kB │ gzip:  0.27 kB\ndist/assets/index-BVm5n9mS.js  134.02 kB │ gzip: 52.97 kB\n✓ built in 791ms\n{\"ok\":true,\"projectPath\":\"/home/runner/workspace/build/string\"}"
+}
